@@ -11,3 +11,6 @@ By following the link that was provided you can find:
 + Unity project
 
 https://drive.google.com/drive/folders/1Ofd6FCTdcSwLKkKQ1CDdUMk_HS0B5x0c
+
+
+![render_1](https://user-images.githubusercontent.com/92484750/215611435-c39beaef-a913-4ddc-b405-25a09ba054b4.png)
