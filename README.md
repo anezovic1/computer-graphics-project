@@ -2,7 +2,7 @@
 
 This project was developed for Computer Graphics course. 
 
-Hajji Sinan’s Tekke in Sarajevo model was made in Blender. After modelling was done, the model was imported into Unity where a simple AR application that displays 3D content based on image recognition was created.
+Hajji Sinan’s Tekke in Sarajevo model was made in Blender. The model was imported into Unity where a simple AR application was created. This application displays 3D content based on image recognition.
 
 By following the link that was provided you can find:
 + Demo video
